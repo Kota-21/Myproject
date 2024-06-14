@@ -1,4 +1,5 @@
 Hello World.
 Thank you.
+bye
 
 This is "test1.txt".
